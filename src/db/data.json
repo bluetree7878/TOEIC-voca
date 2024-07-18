@@ -1,0 +1,201 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "60f5",
+      "day": 4
+    },
+    {
+      "id": "1565",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "5682",
+      "day": "1",
+      "eng": "account",
+      "kor": "계산",
+      "isDone": false
+    },
+    {
+      "id": "cb95",
+      "day": "1",
+      "eng": "account for",
+      "kor": "~를 설명하다",
+      "isDone": false
+    },
+    {
+      "id": "4b2d",
+      "day": "1",
+      "eng": "benefit from",
+      "kor": "~로부터 혜택을 받다",
+      "isDone": false
+    },
+    {
+      "id": "bf7a",
+      "day": "1",
+      "eng": "condense",
+      "kor": "압축하다",
+      "isDone": false
+    },
+    {
+      "id": "d3ea",
+      "day": "1",
+      "eng": "condense into",
+      "kor": "~로 압축하다",
+      "isDone": false
+    },
+    {
+      "id": "d5f5",
+      "day": "2",
+      "eng": "better",
+      "kor": "~를 개선하다",
+      "isDone": false
+    },
+    {
+      "id": "c563",
+      "day": "2",
+      "eng": "conduct",
+      "kor": "실시, 시행하다",
+      "isDone": false
+    },
+    {
+      "id": "340b",
+      "day": "2",
+      "eng": "accrue",
+      "kor": "생기다, 얻어지다",
+      "isDone": false
+    },
+    {
+      "id": "1196",
+      "day": "2",
+      "eng": "conductor",
+      "kor": "지휘자 , 차장",
+      "isDone": false
+    },
+    {
+      "id": "2823",
+      "day": "2",
+      "eng": "confirmation",
+      "kor": "확정서",
+      "isDone": false
+    },
+    {
+      "id": "1bb6",
+      "day": "3",
+      "eng": "be aware of",
+      "kor": "~를 조심하다",
+      "isDone": false
+    },
+    {
+      "id": "02fe",
+      "day": "3",
+      "eng": "biannual",
+      "kor": "반년마다의",
+      "isDone": false
+    },
+    {
+      "id": "51e5",
+      "day": "3",
+      "eng": "accumulation",
+      "kor": "축적, 축적물",
+      "isDone": false
+    },
+    {
+      "id": "dc05",
+      "day": "3",
+      "eng": "confirmed",
+      "kor": "확인된",
+      "isDone": false
+    },
+    {
+      "id": "883c",
+      "day": "3",
+      "eng": "beneficial",
+      "kor": "혜택이 많은",
+      "isDone": false
+    },
+    {
+      "id": "2ec0",
+      "day": "4",
+      "eng": "beneficiary",
+      "kor": "수혜자",
+      "isDone": false
+    },
+    {
+      "id": "e2df",
+      "day": "4",
+      "eng": "confiscate",
+      "kor": "압수, 몰수하다",
+      "isDone": false
+    },
+    {
+      "id": "6e3d",
+      "day": "4",
+      "eng": "binding",
+      "kor": "구속력 있는, 의무적인",
+      "isDone": false
+    },
+    {
+      "id": "8f81",
+      "day": "4",
+      "eng": "bill",
+      "kor": "계산서, 청구서, 법안",
+      "isDone": false
+    },
+    {
+      "id": "127d",
+      "day": "4",
+      "eng": "accurately",
+      "kor": "정확히",
+      "isDone": false
+    },
+    {
+      "id": "3ccb",
+      "day": "5",
+      "eng": "achievement",
+      "kor": "업적, 성과",
+      "isDone": false
+    },
+    {
+      "id": "7e42",
+      "day": "5",
+      "eng": "irretrievable",
+      "kor": "돌이킬 수 없는",
+      "isDone": false
+    },
+    {
+      "id": "b3a8",
+      "day": "5",
+      "eng": "issue",
+      "kor": "발행하다, 발급, 문제",
+      "isDone": false
+    },
+    {
+      "id": "b7af",
+      "day": "5",
+      "eng": "be laid off",
+      "kor": "해고되다",
+      "isDone": false
+    },
+    {
+      "id": "cc1b",
+      "day": "5",
+      "eng": "landfill",
+      "kor": "매립지",
+      "isDone": false
+    }
+  ]
+}
